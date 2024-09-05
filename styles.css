@@ -1,0 +1,17 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+#arrayInput {
+    width: 300px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+#sortCanvas {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}
